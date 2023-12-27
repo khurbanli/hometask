@@ -28,7 +28,7 @@ Map
 Filter 
 Slice 
 flat 
-Salam bu yeni repodur
+2ci yeni repor
 flatMap */
 
 
